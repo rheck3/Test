@@ -2,6 +2,7 @@ hello world by Bo Chen
 <<<<<<< HEAD
 Daniel Kuo
 Robert Heck
+Curtis Hildebrant
 
 Do something
 
